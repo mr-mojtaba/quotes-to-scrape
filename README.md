@@ -4,7 +4,7 @@ Quotes to Scrape<a name="TOP"></a>
 This project is developed to scrape on the [Quotes to Scrape](http://quotes.toscrape.com/) website,
 and return the desired information then save it to a txt file.
 This project has three spiders to scrape and extract for quotes, authors, and tags.
-Note:Using this website is prohibited in Iran.
+Note: Using this website is prohibited in Iran.
 
 - - - -
 
